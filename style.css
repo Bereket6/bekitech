@@ -1,0 +1,28 @@
+body{margin: 0; height: 100%; width: 100%; background-image:url(images/120.jpg)  ; height:fit-content;  background-size: cover; cursor: auto;}
+
+p{text-indent: 5%;font-size: large; margin: 5em; padding-left: 15%; padding-right: 15%; color: black; font-size: x-large;}
+h3{font-size: xx-large; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;}
+
+
+.container {
+    position: relative;
+    text-align: center; color: thistle;}
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  h6{text-align: center; font-size: xx-large; color: rgb(255, 0, 0); font-family: cursive; text-decoration-line: underline;}
+  h4{text-align: center; font-size: xx-large; color: rgb(255, 0, 0); font-family: cursive; text-decoration-line: underline;}
+  video {
+    margin-left: 50vw;
+    transform: translate(-50%);
+  }
+  @font-face {
+    font-family: myFirstFont;
+    src: url(fonts/Roboto-Italic.ttf);
+  }
+  h1{color: rgb(0, 0, 0)}
+  h2{color: white;}
+  h5{color:white;}
